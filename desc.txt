@@ -1,0 +1,1 @@
+This is a "C" code that deletes unnecessary spaces from a given .txt file. It doesn't create a new file or overwrite any data.
